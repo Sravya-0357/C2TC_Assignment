@@ -1,4 +1,4 @@
-package entityclassassignment1;
+package entityclassassignment2;
 
 public class HBDetails {
 
