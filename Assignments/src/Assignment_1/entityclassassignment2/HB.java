@@ -1,4 +1,4 @@
-package entityclassassignment2;
+package Assignment_1.entityclassassignment2;
 
 public class HB {
 	private int count;

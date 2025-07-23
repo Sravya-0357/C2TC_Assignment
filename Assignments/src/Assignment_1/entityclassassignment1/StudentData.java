@@ -1,4 +1,4 @@
-package entityclassassignment1;
+package Assignment_1.entityclassassignment1;
 
 public class StudentData {
 
